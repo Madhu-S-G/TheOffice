@@ -30,5 +30,11 @@ public class CheckTest {
 		System.out.println(" -----parents----- ");
 	}
 	
+	@Test
+	public void strikers()
+	{
+		System.out.println(" Ram Ram!!!!!");
+	}
+	
 	
 }
