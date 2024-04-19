@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Suite">
+	<groups>
+		<run>
+			<include name="regression"></include>
+		</run>
+	</groups>
+	
+  <test  name="Test1">
+ <!--  <parameter name="br" value="firefox"></parameter>  --> 
+    <classes>
+      <class name="admin_module.updateDrProfile_util_pom"/>
+    <class name="patient_module.patientApplyAppntmnt_pom_util_test"/>
+  <!--      <class name="admin_module.adminFetchReports_pom_util_test"/>   --> 
+    </classes>
+  </test> <!-- Test -->
+ 
+ <!--  
+   <test   name="Test2">
+	   <parameter name="br" value="firefox"></parameter>
+    <classes>
+      <class name="admin_module.updateDrProfile_util_pom"/>
+      <class name="patient_module.patientApplyAppntmnt_pom_util_test"/>
+      <class name="admin_module.adminFetchReports_pom_util_test"/>    
+    </classes>
+  </test>  Test  
+   <test  name="Test3">
+	   <parameter name="br" value="firefox"></parameter>
+    <classes>
+      <class name="admin_module.updateDrProfile_util_pom"/>
+      <class name="patient_module.patientApplyAppntmnt_pom_util_test"/>
+      <class name="admin_module.adminFetchReports_pom_util_test"/>    
+    </classes>
+  </test>  Test     -->
+</suite> 
+
+
+
+
+
+
+
+
+
