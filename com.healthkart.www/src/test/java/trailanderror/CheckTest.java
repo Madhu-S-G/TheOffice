@@ -34,7 +34,7 @@ public class CheckTest {
 	public void strikers()
 	{
 		System.out.println("giiiii ");
-		System.out.println(" hi good evening  ");
+		System.out.println("hii  hii hii ");
 	}
 	
 	
