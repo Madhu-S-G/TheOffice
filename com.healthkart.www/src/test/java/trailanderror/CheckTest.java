@@ -33,8 +33,8 @@ public class CheckTest {
 	@Test
 	public void strikers()
 	{
-		
-		System.out.println(" hi good evening guys!!!!!! ");
+		System.out.println("giiiii ");
+		System.out.println(" hi good evening  ");
 	}
 	
 	
