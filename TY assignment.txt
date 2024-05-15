@@ -1,0 +1,53 @@
+		/// MULTIPLE FRAME
+		
+//		driver.get("https://demoapps.qspiders.com/ui/frames/multiple?sublist=2");
+//		String s1 = driver.findElement(By.xpath("//p[.='Email:Admin@gmail.com']")).getText();
+//		String s2 = driver.findElement(By.xpath("//p[.='Password : Admin@1234']")).getText();
+//		String s3 = driver.findElement(By.xpath("//p[.='Confirm Password : Admin@1234']")).getText();
+//
+//     String a1 = s1.substring(6);
+//     String a2 = (s2.substring(11));
+//     String a3 = (s3.substring(19));
+//      
+//     
+//     
+//     driver.switchTo().frame(0);
+//       driver.findElement(By.xpath("//input[@id='email']")).sendKeys(a1);
+//       driver.findElement(By.xpath("//input[@id='password']")).sendKeys(a2);
+//       driver.findElement(By.xpath("//input[@id='confirm-password']")).sendKeys(a3);
+//         
+//       driver.findElement(By.xpath("//button[@id='submitButton']")).click();
+//       
+//       driver.switchTo().parentFrame();
+//       driver.switchTo().frame(1);
+//       driver.findElement(By.xpath("//input[@id='username']")).sendKeys("Thippu");
+//       driver.findElement(By.xpath("//input[@id='password']")).sendKeys("Chinnu");
+
+
+
+
+
+
+
+//////// 16/03/2024 IMP Questions ////////
+----------------------------------------------------------
+1. How does Selenium interact with different browsers?
+2. What is a WebElement in Selenium?
+3. Explain the difference between driver.get() and driver.navigate().to() in Selenium?
+4. What is the significance of the getAttribute() method in Selenium?
+5. How do you simulate pressing the Enter key using Selenium WebDriver?
+6. What is the purpose of the Robot class in Selenium WebDriver?
+7. Explain the difference between driver.getTitle() and driver.getCurrentUrl() in Selenium.
+8. How to perform keyboard shortcuts in Selenium WebDriver?
+9. what is the difference between Selenium V3 and V4?
+10.How to capture network traffic in Selenium WebDriver?
+11.Explain the concept of the TestNG XML suite file?
+12.How do you handle dynamic tables in Selenium?
+13.How can you simulate browser back and forward actions in Selenium?
+14.How to handle SSL certificate issues in Selenium WebDriver?
+
+
+
+
+
+
