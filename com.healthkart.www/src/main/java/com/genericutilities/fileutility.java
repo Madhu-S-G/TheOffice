@@ -39,9 +39,6 @@ public class fileutility {
           FileOutputStream fout = new FileOutputStream(Ipathconstant.FilePath);
                  pobj.store(fout, commentvalue);
                  pobj.load(fi);
-			   	 
-                 
-            
-         
+        
      }
 }
